@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T12:16:30.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.0" etag="rDSuH8YPaZr9QhWRNrYp" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T12:32:32.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FdYckBhVJdpBbgW4IdXE" version="24.3.0" type="github">
   <diagram name="Страница — 1" id="OVc6Xa9mkI6XaBKZrF49">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TZqnBO27B6Fx94vHFUeu-2" value="&lt;span id=&quot;docs-internal-guid-4187d319-7fff-7a4f-f9ee-13bc87abbb57&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Заголовок сторінки&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZqnBO27B6Fx94vHFUeu-38" value="&lt;span id=&quot;docs-internal-guid-26fe239f-7fff-ba95-35f0-8be5afd51dd9&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Головний вміст&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="90" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TZqnBO27B6Fx94vHFUeu-40" value="&lt;span id=&quot;docs-internal-guid-c9319262-7fff-e83f-c7fe-0b6a9679c3ef&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Лівобічне меню&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="TZqnBO27B6Fx94vHFUeu-41" value="&lt;span id=&quot;docs-internal-guid-e0e2a52f-7fff-263c-4d9c-b907e40ae312&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Елементи навігації&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZqnBO27B6Fx94vHFUeu-42" value="&lt;span id=&quot;docs-internal-guid-e83117f2-7fff-b3b2-7d7a-cb32bff0e3f1&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Список елементів&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TZqnBO27B6Fx94vHFUeu-43" value="&lt;span id=&quot;docs-internal-guid-7bd895f0-7fff-b836-7dd3-b016854ccad1&quot;&gt;&lt;span style=&quot;font-size: 13pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Нижній колонтитул&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="430" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
